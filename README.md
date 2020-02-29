@@ -3,7 +3,7 @@ This will help you work with DynamoDB databases
 
 This uses the boto3 lib that can easily be added to your python libs with:
 
-pip instal boto3
+pip install boto3
 
 With the command line. This was created in order to work with the Path of Exile public API stash. 
 I wanted to create a table with all the items from the stash and orgainze it by the ilvl of the 
